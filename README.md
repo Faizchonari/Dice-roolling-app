@@ -1,4 +1,4 @@
-# flutter_application_1
+# dicee
 
 A new Flutter project.
 
